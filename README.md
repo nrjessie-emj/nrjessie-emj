@@ -1,7 +1,7 @@
 
 # Hi, I’m Noell
 
-I’m a Data Analytics graduate focused on turning data into actionable insights. I specialize in Python-based analysis, data visualization, and exploring real-world datasets to uncover patterns that support business decisions.
+I’m a data analytics graduate with a background in business operations and customer-focused work, which shapes how I approach data problems. I use Python, SQL, and data visualization to analyze real-world datasets, uncover performance patterns, and support better business decisions.
 
 ## Skills
 - Python (Pandas, Matplotlib)
