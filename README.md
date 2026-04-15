@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**nrjessie-emj/nrjessie-emj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Noell
 
-Here are some ideas to get you started:
+I’m a Data Analytics graduate focused on turning data into actionable insights. I specialize in Python-based analysis, data visualization, and exploring real-world datasets to uncover patterns that support business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python (Pandas, Matplotlib)
+- Data Analysis & Exploratory Data Analysis
+- Data Visualization
+- SQL (basic/intermediate)
+- Business Insight & Reporting
+
+## Projects
+- Product Return Rate Analysis  
+  https://github.com/nrjessie-emj/SalesReturnAnalysisProject
+
+## About Me
+I’m a data analytics graduate with a background in business operations and customer-focused roles, which shapes how I approach data problems. I focus on analyzing real-world datasets to uncover patterns that can improve decision-making, especially in areas like customer behavior and operational performance. I’m currently building a portfolio of projects using Python, SQL, and data visualization tools. 
+
+I’m particularly interested in roles focused on business analytics, operations, and customer insights.
+
+## Contact
+- LinkedIn: www.linkedin.com/in/noellrjessie
