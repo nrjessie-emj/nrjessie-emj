@@ -15,6 +15,7 @@ I’m a Data Analytics graduate focused on turning data into actionable insights
   https://github.com/nrjessie-emj/SalesReturnAnalysisProject
 
 - Retail and Warehouse Sales Analysis
+  
   https://github.com/nrjessie-emj/RetailWarehouseSalesAnalysis
 
 ## About Me
